@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zineb khaloua</h1>
-<h3 align="center">A passionate frontend developer from Marocco</h3>
+<h3 align="center">A passionate back-end developer from Marocco</h3>
 
 
 - 🌱 I’m currently learning **Laravel,ReactJs**
