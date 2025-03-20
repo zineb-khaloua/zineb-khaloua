@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Laravel,ReactJs**
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,Bootstrap,PHP-8**
+- 💬 Ask me about **PHP-8,HTML5,CSS3,JavaScript,Bootstrap**
 
 - 📫 How to reach me **khalouazineb@gmail.com**
 
