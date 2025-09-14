@@ -2,9 +2,9 @@
 <h3 align="center">A passionate back-end developer from Marocco</h3>
 
 
-- 🌱 I’m currently learning **Laravel,ReactJs**
+- 🌱 I’m currently learning **Laravel,VueJs**
 
-- 💬 Ask me about **PHP-8,HTML5,CSS3,JavaScript,Bootstrap,AJAX,JQuery**
+- 💬 Ask me about **PHP-8,LARAVEL,HTML5,CSS3,JavaScript,Bootstrap,AJAX,JQuery**
 
 - 📫 How to reach me **khalouazineb@gmail.com**
 
