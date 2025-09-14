@@ -2,7 +2,7 @@
 <h3 align="center">A passionate back-end developer from Marocco</h3>
 
 
-- 🌱 I’m currently learning **Laravel,VueJs**
+- 🌱 I’m currently learning **VueJs**
 
 - 💬 Ask me about **PHP-8,LARAVEL,HTML5,CSS3,JavaScript,Bootstrap,AJAX,JQuery**
 
