@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm zineb khaloua</h1>
-<h3 align="center">A passionate web developer from Marocco</h3>
+<h3 align="center">A passionate full stack developer from Marocco</h3>
 
 
-- 🌱 I’m currently learning **symfony**
+- 🌱 I’m currently learning **vue.js**
 
 - 💬 Ask me about **PHP-8,LARAVEL,HTML5,CSS3,ReactJs,JavaScript,Bootstrap,AJAX,JQuery**
 
